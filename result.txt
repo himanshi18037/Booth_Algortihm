@@ -1,0 +1,5 @@
+Quotient: 0 0000
+Remainder: 4 0100
+--------------------
+Binary Product: 0000011000 
+Decimal Product: 24
